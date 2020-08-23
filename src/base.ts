@@ -1,5 +1,7 @@
 // domain entity
 enum Entity {
+  BookingStatus = 'booking-status',
+  BookingType = 'booking-type',
   Booking = 'booking',
   Group = 'group',
   Permission = 'permission',
