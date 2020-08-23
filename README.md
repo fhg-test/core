@@ -1,2 +1,2 @@
 # core
-Domain Entities Shared Library
+Domain Entity
