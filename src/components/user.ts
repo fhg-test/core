@@ -7,6 +7,7 @@ interface User {
   readonly credentials: {
     readonly email: string;
     readonly password: string;
+    readonly salt: string;
   };
   readonly groups: Group[];
 }
