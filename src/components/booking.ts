@@ -17,7 +17,7 @@ interface Booking {
   readonly type: string | BookingType;
   readonly location: string;
   readonly dates: Date[];
-  readonly confirmedDate?: Date;
+  readonly approvedDate?: Date;
   readonly status: string | BookingStatus;
   readonly createdBy: string | User;
 }
