@@ -2,8 +2,8 @@ import { User } from './user';
 
 interface Session {
   readonly id: string;
-  readonly cookie?: any;
-  readonly passport?: any;
+  readonly session: string;
+  readonly expires: Date;
   readonly user?: string | User;
 }
 
