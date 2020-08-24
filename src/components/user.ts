@@ -1,7 +1,6 @@
 import { Group } from './group';
 
 interface User {
-  readonly _id?: string;
   readonly id: string;
   readonly displayName?: string;
   readonly credentials: {
