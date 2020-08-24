@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/fhg-test/core/compare/v0.2.2...v0.3.0) (2020-08-24)
+
+
+### Features
+
+* **booking:** rename confirmedDate to approvedDate ([8ac4c0b](https://github.com/fhg-test/core/commit/8ac4c0b))
+
+
+
 ### [0.2.2](https://github.com/fhg-test/core/compare/v0.2.1...v0.2.2) (2020-08-24)
 
 
