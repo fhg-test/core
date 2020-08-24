@@ -8,7 +8,7 @@ interface User {
     readonly password: string;
     readonly salt: string;
   };
-  readonly groups: Group[];
+  readonly groups: ReadonlyArray<string | Group>;
 }
 
 export { User };
