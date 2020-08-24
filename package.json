@@ -1,6 +1,6 @@
 {
   "name": "@fhg-test/core",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Domain Entity",
   "homepage": "https://github.com/fhg-test/core",
   "bugs": "https://github.com/fhg-test/core/issues",

@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/fhg-test/core/compare/v0.2.0...v0.2.1) (2020-08-24)
+
+
+### Bug Fixes
+
+* **session:** replace cookie & passport with session & expires fields ([b8bbe34](https://github.com/fhg-test/core/commit/b8bbe34))
+
+
+
 ## [0.2.0](https://github.com/fhg-test/core/compare/v0.1.2...v0.2.0) (2020-08-24)
 
 
