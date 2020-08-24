@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/fhg-test/core/compare/v0.1.2...v0.2.0) (2020-08-24)
+
+
+### Features
+
+* remove _id field in every components ([52a169b](https://github.com/fhg-test/core/commit/52a169b))
+* **user:** add  field to User.credentials object ([1e0d806](https://github.com/fhg-test/core/commit/1e0d806))
+
+
+
 ### [0.1.2](https://github.com/fhg-test/core/compare/v0.1.1...v0.1.2) (2020-08-23)
 
 
